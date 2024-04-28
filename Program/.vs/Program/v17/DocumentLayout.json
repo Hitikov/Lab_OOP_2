@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|solutionrelative:Program\\Pay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|solutionrelative:Program\\Pay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|solutionrelative:Program\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F075A21-1411-4B5C-BE53-68812F40BC7F}|Program\\Program.vcxproj|solutionrelative:Program\\Pay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 56,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pay.h",
               "DocumentMoniker": "C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.h",
               "RelativeDocumentMoniker": "Program\\Pay.h",
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Main.cpp",
               "RelativeDocumentMoniker": "Program\\Main.cpp",
@@ -61,13 +61,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pay.cpp",
               "DocumentMoniker": "C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.cpp",
               "RelativeDocumentMoniker": "Program\\Pay.cpp",
               "ToolTip": "C:\\Cstm\\.PSTU_works\\.Inf\\Labs\\OOP\\Lab_OOP_2\\Program\\Program\\Pay.cpp",
               "RelativeToolTip": "Program\\Pay.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwDoAAAABAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwDoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T09:26:43.434Z",
               "EditorCaption": ""
